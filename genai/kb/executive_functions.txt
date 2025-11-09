@@ -1,0 +1,5 @@
+Title: ADHD Executive Function Research 2024
+Source-URL: https://jamanetwork.com/journals/jamapsychiatry
+Fetched-At: 2024-03-15
+----------
+Executive function deficits are central to ADHD, particularly in working memory, cognitive flexibility, and inhibitory control. Neuroimaging studies show reduced prefrontal cortex activity during executive tasks. Meta-analysis of 35 studies indicates that targeted cognitive training can produce moderate improvements in executive functioning, with effect sizes ranging from 0.4 to 0.6. Behavioral interventions that externalize executive functions (using planners, timers, reminders) show the most consistent real-world benefits.

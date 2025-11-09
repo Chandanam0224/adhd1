@@ -1,0 +1,5 @@
+Title: Emotional Dysregulation in ADHD
+Source-URL: https://link.springer.com/article/10.1007/s12402-023-00589-w
+Fetched-At: 2024-03-10
+----------
+Emotional dysregulation affects approximately 70% of adults with ADHD, characterized by rapid mood shifts and rejection sensitivity. fMRI studies show amygdala hyperactivity and prefrontal-amygdala connectivity differences. Dialectical Behavior Therapy (DBT) skills adapted for ADHD demonstrate significant improvements in emotional control. Mindfulness-based interventions show promise, particularly when combined with medication. Early recognition of emotional triggers and implementation of coping strategies reduces functional impairment.

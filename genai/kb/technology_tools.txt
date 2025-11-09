@@ -1,0 +1,5 @@
+Title: Digital Health Tools for ADHD Management
+Source-URL: https://www.nature.com/articles/s41746-023-00958-w
+Fetched-At: 2024-03-12
+----------
+Digital interventions show promise for ADHD symptom management. Focus timer apps utilizing Pomodoro technique improve task persistence by 40%. Gamified habit-building applications increase adherence to routines. Smartwatch reminders for medication and transitions reduce working memory demands. However, technology must be carefully selected to avoid adding cognitive load. The most effective tools are simple, customizable, and integrate seamlessly into daily workflows.

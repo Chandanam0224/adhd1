@@ -1,0 +1,11 @@
+Source-URL: https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd
+
+Title: Attention-Deficit/Hyperactivity Disorder (ADHD)
+
+Fetched-At: 2025-09-22T05:19:31.040657Z
+
+Publish-Date: unknown
+
+----------------------------------------
+
+NIMH supports research into the possible causes of ADHD. Researchers are investigating factors such as genes, hormones and other molecules, brain structure and activity, and prenatal and early life exposures. NIMH-supported research is also exploring the behavioral profiles of children and adults with ADHD to better diagnose and treat the disorder. This includes identifying symptoms associated with particular types of ADHD and their presentation at different ages. We’re also supporting research on treatments, services, and interventions for people with ADHD and their families. Standard ADHD treatments include medication and psychosocial interventions, such as cognitive behavioral therapy, parent training, and school interventions. Newer treatments include neurofeedback, cognitive training, mindfulness, and neuromodulation. Researchers are looking at these treatment approaches separately and together and comparing their effectiveness for different ADHD symptoms. Additionally, researchers are exploring new technologies, like mobile apps and virtual reality, that can deliver information to people in real time to help them change their behavior.
